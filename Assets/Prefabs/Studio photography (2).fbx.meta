@@ -1,0 +1,1147 @@
+fileFormatVersion: 2
+guid: 560e298ec1bc1b04d90573f25da456f0
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base negro focus
+    second: {fileID: 2100000, guid: 07053a324fadf8840a23dba9ae5e98fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Botella ilfstop
+    second: {fileID: 2100000, guid: 81cf46a730b9cfc438c64d29f52e336b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Botella multigrade
+    second: {fileID: 2100000, guid: 61179be78cf4fd046a9925877b82af9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabeza flash botones
+    second: {fileID: 2100000, guid: c7cefeddc59e0a84a9b05c88df630f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caja filtros
+    second: {fileID: 2100000, guid: df1056f5e512d754591e2811b88dba49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubeta _ pinzas developer
+    second: {fileID: 2100000, guid: 46009e3b8e7e2f244a5fb83a1277c56d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubeta _ pinzas fixer
+    second: {fileID: 2100000, guid: d151c4cdea4ace34d96ac96a26786957, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubeta _ pinzas stop bath
+    second: {fileID: 2100000, guid: 80b91e1f51b03b944b270f47b484b771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubeta _ pinzaswater_
+    second: {fileID: 2100000, guid: 274b234cabbcd474999202bf95449528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubierta de libro
+    second: {fileID: 2100000, guid: b9b6de73a00233c4daa24073859614be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubierta libro 3
+    second: {fileID: 2100000, guid: 10a852ee79f9d7d4bb43e78d888d5ff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubierta libro 4
+    second: {fileID: 2100000, guid: dcbe17ce802c73a4588ad75bd76906e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubierta libro 7
+    second: {fileID: 2100000, guid: 7cca0fe567db14e47864d60ec3355063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubierta libro 9
+    second: {fileID: 2100000, guid: f6bb467da1dc7d343ac3d68db8d79fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Etiqueta galon fixer
+    second: {fileID: 2100000, guid: 5e103d631dfc7af43ba7bdacb9e3ba98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Etiqueta papel 17,8x24
+    second: {fileID: 2100000, guid: d1856fbb0df98214685af39bed6cc80c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Etiqueta papel 20x25,4
+    second: {fileID: 2100000, guid: 16898378027fab449bd21f47a7701a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Etiqueta papel 27,9x35,6
+    second: {fileID: 2100000, guid: 11e8dab75d870224887e983a9a54966d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Etiqueta papel 27,9x35,6 2
+    second: {fileID: 2100000, guid: 87a4f03abb7517245bb1fec487a0b072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Etiqueta papel 30,5x40,6
+    second: {fileID: 2100000, guid: 65b594125d1e3814f89dc997fa81c846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Etiqueta papel12,7x17,8
+    second: {fileID: 2100000, guid: f805aedbe939a3747aadac78f82f096b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Etiqueta papel12,7x17,8.001
+    second: {fileID: 2100000, guid: 2536dc4835b53264f96e19a8cacc9e78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Filtros base
+    second: {fileID: 2100000, guid: 451104c2ffa54eb45a323ca518a3ed70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foto Libro viaje
+    second: {fileID: 2100000, guid: b707d12dec487c84e8f7114aced412c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Galon
+    second: {fileID: 2100000, guid: 904e478bba2040c4fbe585d6681bd1d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass 1_2
+    second: {fileID: 2100000, guid: 492c3000efe77a24a9ee08d08b309cc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: c25529e2726969a41be0f7b850ed7ce9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: ff172716d21a31847926ed257f5f8bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 1c3c5acecb2a7fb4db64044623d6ae19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: d445ff331d1863742a919e3e2b4499ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 88dbcaba3c76fc843a6cfd7e61f97a15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: e203a30454e956b40906dfaddcfba85f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: f8f752c29e269f34cb75c76086f85b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 92841a39c92de1646bf57b3b8477cc55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 1c8a7e59a58f3034bb3aa7abe8d2ea48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paginas
+    second: {fileID: 2100000, guid: dac788ebbaddf3149b10d58922324404, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tapas botellas
+    second: {fileID: 2100000, guid: eff0b0482884d9647b61dfdd50f41410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_box
+    second: {fileID: 2100000, guid: 758fa2886988d4740a60d4b055205448, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface1.001
+    second: {fileID: 2100000, guid: b68c8a755fa167142bb80d265fe94650, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base ampli
+    second: {fileID: 2100000, guid: cf8c8a03ce0a77341b1db07d73161d28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base foto
+    second: {fileID: 2100000, guid: 37e7e166d574b59449c6e157b9fad159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base timer ampli
+    second: {fileID: 2100000, guid: 715a4903a2f67084b9656f1b1058322e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blanco focus
+    second: {fileID: 2100000, guid: 409badcfb68ea7f419ef403a8f52d9bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bombila
+    second: {fileID: 2100000, guid: 19049662ad909a04c8a2b7693fba962f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bombilla parte abajo
+    second: {fileID: 2100000, guid: d0508190b71efde46a40944d061d1963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: botella fuelle
+    second: {fileID: 2100000, guid: 6dd8e4a9f16483e41b5e713f07b0f670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: botella rapid fixer
+    second: {fileID: 2100000, guid: 93b7f07e2d087434a9c8c92ce8d271a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boton glass
+    second: {fileID: 2100000, guid: f5c53be74c11187429f4c00f37a5c6f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boton timer
+    second: {fileID: 2100000, guid: 25912e2ef22fa334295b28fbda93ed76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: botones timer
+    second: {fileID: 2100000, guid: c64207990413c2148a72c92d96931ebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabeza 2 ampli
+    second: {fileID: 2100000, guid: 48cf0fc02c0c06247bb5a993b06d667c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabeza ampli
+    second: {fileID: 2100000, guid: f12d9b9701620284984579170626becd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabeza de flash parte
+    second: {fileID: 2100000, guid: cca1350516da5ec4a9805a84555e9e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabeza falsh
+    second: {fileID: 2100000, guid: 6ecb22f0083c955449908cacd349aba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabeza flash pantalla
+    second: {fileID: 2100000, guid: b3e77d4fe73b65344a37e8768f03fedb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cajas abajo
+    second: {fileID: 2100000, guid: b0e45a17660ea56489bcd48dde8d7200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cajas arriba
+    second: {fileID: 2100000, guid: f24b8f8364c288e4abd73c0124a2b5d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camara Glass
+    second: {fileID: 2100000, guid: 6e9ed9e589b7a8a4f99de82238bb7e01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camara cine
+    second: {fileID: 2100000, guid: d4f83c97dffe46b47a6b007baf3576c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camara cuero
+    second: {fileID: 2100000, guid: dcf0986812b1a234d8ee194eb0f0a933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camara dentro del objetivo
+    second: {fileID: 2100000, guid: d82ef697381b6dc4499b94b7930c60b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camara metal
+    second: {fileID: 2100000, guid: cc5ff34abb9407a4f9a93c322ee8d327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coso ampli
+    second: {fileID: 2100000, guid: 2d55d192d56de0d47ae226cc3eee99c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: croma_
+    second: {fileID: 2100000, guid: ef028d782cfdc0f43afbf19dcc2c8656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cubierta libro 1
+    second: {fileID: 2100000, guid: a8fd0518df6fe4440b5d4a675ec45c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cubierta libro 2
+    second: {fileID: 2100000, guid: d039909be122b054483e6b27db064212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cubierta libro 5
+    second: {fileID: 2100000, guid: cd78124e95875214bb69cd93598585d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cubierta libro 6
+    second: {fileID: 2100000, guid: 0abafd29dd525e94ca1d30fa645e71ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cubierta libro 8
+    second: {fileID: 2100000, guid: d354ebcbb168fa2498f9965500bd3bd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: detalles camara
+    second: {fileID: 2100000, guid: b57b423851f6d3c45a9688aabc9f7103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: embudo
+    second: {fileID: 2100000, guid: 8e5131d14920bfd438c3b692155145fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: estante darkroom
+    second: {fileID: 2100000, guid: 1a09447a42a583e4381c7bbc36a4182f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: etiqueta galon multigrade
+    second: {fileID: 2100000, guid: 83b53b8112d69294ea05b8acb8272723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: etiqueta ilfstop
+    second: {fileID: 2100000, guid: e7dbccff8115ef74f9a0904bb489d689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: etiqueta multigrade
+    second: {fileID: 2100000, guid: 67eb3ec1ebea36d42b872ee3f01ae6a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: etiqueta rapid fixer
+    second: {fileID: 2100000, guid: d4adcf2b1b683a14d85b7b1590738875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foto libro 2
+    second: {fileID: 2100000, guid: 042d17a2007cb3c45acaf117b95ae7d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foto libro 6
+    second: {fileID: 2100000, guid: dce22bd9c684b024f9ff25dd4672134c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foto libro 7
+    second: {fileID: 2100000, guid: 16079995762ae6a4d9c5a8dd18d5f893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foto libro 9
+    second: {fileID: 2100000, guid: b22489ce0c84f084eb38337b66b5aa65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia
+    second: {fileID: 2100000, guid: 4f7ac9855c60d0d408664cfadd203b1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.001
+    second: {fileID: 2100000, guid: 0a984ead3a1d0d549bf400aa091aff23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.002
+    second: {fileID: 2100000, guid: e411c25625482b449bcd9714d32e10fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.003
+    second: {fileID: 2100000, guid: 77a73361857ab6b40ab2b1775b255aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.004
+    second: {fileID: 2100000, guid: 5f55e0fc71e6f654ca016f56c422ca1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.005
+    second: {fileID: 2100000, guid: 2f9ae9a7ed537dc4f92cf4e64fcc8a6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.006
+    second: {fileID: 2100000, guid: 569485add9c61d2458d397767223ca34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.007
+    second: {fileID: 2100000, guid: 3b7a7dda39e2f7748b0d3d172cb67cc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.008
+    second: {fileID: 2100000, guid: 616d4423f4096214abdf16a0b75b2bf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.009
+    second: {fileID: 2100000, guid: f0c431919be929e4b8942d7a6ed02157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.010
+    second: {fileID: 2100000, guid: ea57ad68e44f32f4d939b4ab060c8807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotografia.011
+    second: {fileID: 2100000, guid: 8835dfbe594a3ba4db007aaa174a1d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotos 7
+    second: {fileID: 2100000, guid: fc8c471756d227a45b85afcb9ad35883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotos album 1
+    second: {fileID: 2100000, guid: a011b0eea336c904dadf9844b2d3b17b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotos album 10
+    second: {fileID: 2100000, guid: bc08b2c765943d441b72d3a0ec2fac25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotos album 2
+    second: {fileID: 2100000, guid: 5072ebed5c48c1d42be0dd42c004404b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotos album 3
+    second: {fileID: 2100000, guid: ed3365d05fd2d1e4a92492e190e18ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotos album 4
+    second: {fileID: 2100000, guid: 888e21bb2abe98d419157d9204175f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotos album 5
+    second: {fileID: 2100000, guid: 2fc91a8e59d802141be45926b986f531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotos album 6
+    second: {fileID: 2100000, guid: 98da2e4bccc36cc42956a2d40d577825, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuelle ampli
+    second: {fileID: 2100000, guid: 51c8db9650f45ce49a60fc4562009789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 0
+    second: {fileID: 2100000, guid: 32af1bd63ef6daf45bff62461dbc8902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 00
+    second: {fileID: 2100000, guid: 1d34fbfe2dc038249b0bbd3905b24727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 1
+    second: {fileID: 2100000, guid: 9480d4fb857eb8e4f91301f1e376b298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 1 1_2
+    second: {fileID: 2100000, guid: 2106702ff051f1d4ea95e2ed477c9e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 2
+    second: {fileID: 2100000, guid: 41a24d8e9a854c74eab11799c52b1c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 2 1_2
+    second: {fileID: 2100000, guid: 6d7e3fdd618600f4599b26884a994454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 3
+    second: {fileID: 2100000, guid: e3dbf518adf7c054ca031d3fdca1efab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 3 1_2
+    second: {fileID: 2100000, guid: 26c9d95eaf8c1d04e8aab9fafca09901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 4
+    second: {fileID: 2100000, guid: 1375cca1be362274282e87a23ffcd0c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass 5
+    second: {fileID: 2100000, guid: 3a74d39aa4e26664aba34cf68f10568e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass focus
+    second: {fileID: 2100000, guid: bb99bdc5f56b00c4192b246d95dbce5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass lupa
+    second: {fileID: 2100000, guid: bf05c644472f5de49b4f11f41647ba07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass probeta.001
+    second: {fileID: 2100000, guid: 3c0eb29e256948342bc177c56463daf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass termometro
+    second: {fileID: 2100000, guid: 944773213a0805b498ce3860787042d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grifo
+    second: {fileID: 2100000, guid: c229abbffb234b6449030700c7972980, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior
+    second: {fileID: 2100000, guid: b1f03140fe8474b47a242caba4689e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interruptor
+    second: {fileID: 2100000, guid: 84bffa51209d7354b90ef0f601bb4900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interruptor timer
+    second: {fileID: 2100000, guid: fa25a9c8246fd1149b8fef78c1a71fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jarra plastico
+    second: {fileID: 2100000, guid: 0431adc5385a4cd42a231b2dfff67282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: luis
+    second: {fileID: 2100000, guid: 7e86d631dfaa1654bab7796a1eeebae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lupa
+    second: {fileID: 2100000, guid: 0aeab58a46ca3fc4c9f2965f98e2217c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: luz_box
+    second: {fileID: 2100000, guid: 39e36f1180493d042a238c9855b844d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objetivo
+    second: {fileID: 2100000, guid: ebaae62e41b2f9e4ea81127fec7be827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pantalla digital timer
+    second: {fileID: 2100000, guid: dea7ce9d42703434197d7ef516b5ff36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papel
+    second: {fileID: 2100000, guid: d40a36dd5809a414996e9a3a4713dc42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papel fondo
+    second: {fileID: 2100000, guid: 880d7e983e1b8624086cbdd80c3d8c97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papel fondo.001
+    second: {fileID: 2100000, guid: 07cfcd761716e86459da6cd6eb467156, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papel fondo.002
+    second: {fileID: 2100000, guid: 78e5c947d1f661e4682091d2e0e7a5e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papel fondo.003
+    second: {fileID: 2100000, guid: d3db970ec550500459e02cb8540468f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papel fondo.004
+    second: {fileID: 2100000, guid: cc87452f26795d2419c690b5afe87e01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papel fondo.005
+    second: {fileID: 2100000, guid: 729baad87b4f3984ab267e7decc364a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papel fondo.006
+    second: {fileID: 2100000, guid: 16ac7ab5fe2a8b44cb8cf6d40f2b52a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papel fondo.007
+    second: {fileID: 2100000, guid: 6af63573b1f46414fb4b59dd426b6e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papel fondo.008
+    second: {fileID: 2100000, guid: fdc301bcc514cca41978b72bed48c6e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parte cabeza ampi
+    second: {fileID: 2100000, guid: f52631827a2b72c41b72ff95e54c1e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piso
+    second: {fileID: 2100000, guid: 57750c624662ce94aa82fafaaa742863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porta negativos ampli
+    second: {fileID: 2100000, guid: 1b545291a8affbe4096d75d22815275e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: punta termometro
+    second: {fileID: 2100000, guid: 8883ba20dfccf6a49aa6dfca266813f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: raya tanque reveado
+    second: {fileID: 2100000, guid: 9efc45d3aa381cc4ab633308697e4e35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: regla ampli_
+    second: {fileID: 2100000, guid: 3c83967eab56c4c4c9f402f9b09f3431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: regla base ampl
+    second: {fileID: 2100000, guid: 7b87667ea7fc0144f8843656a78ea237, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reguladores
+    second: {fileID: 2100000, guid: 316ccb68a1c4070499478d85eb9f446b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: resorte pinza
+    second: {fileID: 2100000, guid: 9b53e94514b300946984cef11eff8bc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rueda of hi
+    second: {fileID: 2100000, guid: 6b012a67f8ae5424bb4f3ea6b25b664f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rueda of hi blanco
+    second: {fileID: 2100000, guid: 160f29f6de58ed748ba8291537af8acc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rueda timer
+    second: {fileID: 2100000, guid: 8ae301360f3c69c4282dd3d79feb4a84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soft box
+    second: {fileID: 2100000, guid: d36c9234061ff5b49812c35b161ce8da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soft box_
+    second: {fileID: 2100000, guid: 075335e05feb4e24fb138eb077335aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sombrilla
+    second: {fileID: 2100000, guid: a3fc76a525fded04497340686ec11670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soporte_palo fondos
+    second: {fileID: 2100000, guid: 38af040977f1fee458ebff0e099b0233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stirrer
+    second: {fileID: 2100000, guid: 0ee5906cb18c046499c43c6c79582202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tabla lisa
+    second: {fileID: 2100000, guid: 6b6ad0b0993365341b6994216d655741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tanque revelado
+    second: {fileID: 2100000, guid: d717748dadceca641aaf556a1cd68606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tapa fuelle
+    second: {fileID: 2100000, guid: 477bf74643f97a7429c685e6664cac8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tapa galones
+    second: {fileID: 2100000, guid: 1d72b46a236b62247bb32d6d93b49be3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: texto libro
+    second: {fileID: 2100000, guid: 53e59e4319b47e341a74a2faed0f3157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: timer
+    second: {fileID: 2100000, guid: d5bff321a9cdae54cb066474718decb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: timer reloj
+    second: {fileID: 2100000, guid: 4a9c72321ecf0184eaeb3e6978de9cb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tripode
+    second: {fileID: 2100000, guid: 2dae4455a99ec34469920e99d9857635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tripode 2
+    second: {fileID: 2100000, guid: d60bf58d5574abf4b8ae2259072275ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood pinzas
+    second: {fileID: 2100000, guid: 7435562c625970544adbbc88259f5759, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood repisa
+    second: {fileID: 2100000, guid: 9b7d326bb4b802f4f9b883729cf537ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood tabla
+    second: {fileID: 2100000, guid: 5afd85f805770ec4087edcb2c7515a21, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10
+    second: {fileID: 2800000, guid: 3273593f6036f794080e1a48dfbd74a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 12,7x17,8
+    second: {fileID: 2800000, guid: 6722777a29280164b9fe5ac5c38ee4bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 17,8x24
+    second: {fileID: 2800000, guid: adc133e53ec293f4c8d4357c922f6fe2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 20,3x25,4
+    second: {fileID: 2800000, guid: 3b6acbe2bc1af004cbd40564955af6fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 27,9x35,6
+    second: {fileID: 2800000, guid: 47c27c4f2bfa8d94cba76f70eb095ac8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 27,9x35,6 2
+    second: {fileID: 2800000, guid: 5f2ad4789cd75eb4c84962ee003e15dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2800000, guid: 9c529ddb732f76942bc9ae3941afe876, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 30,5x40,6
+    second: {fileID: 2800000, guid: 0e9254a426aa69c4688bf83725137d0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 4
+    second: {fileID: 2800000, guid: e1e667f7d54a5ad4caeb55421041658f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5
+    second: {fileID: 2800000, guid: b997f2f0cb6d63242b7b94052f38ade6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6
+    second: {fileID: 2800000, guid: 69ef409d5010b1047bee1ae090b76e8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7
+    second: {fileID: 2800000, guid: 2d16b7ec9fd2ccf4599229a2476296da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 8
+    second: {fileID: 2800000, guid: 7a9f5f36ffdfbae4e89b230b010b65ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9
+    second: {fileID: 2800000, guid: c7ba803c2eff82d4881d137cab305b74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AF264391-EB18-4662-BF82-FC9A9C9306F2
+    second: {fileID: 2800000, guid: 5dd693073ce8c0c4c955b0c8c0eb1f0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Anillos
+    second: {fileID: 2800000, guid: 24e10d347d15e8740aa0f5a600b330e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Beige & Brown Our Journey Holiday Photo Book
+    second: {fileID: 2800000, guid: 3c03b689c0ffcea4884ca8302bdd98f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brown Green and Cream Paper Travel Journal Family Photo Book
+    second: {fileID: 2800000, guid: 2355ed2987c30a64da4fccd767f15593, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Captura de pantalla 2025-12-02 072705
+    second: {fileID: 2800000, guid: 406f0703d80304f4cbc9e2261b020839, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Foto libro boda
+    second: {fileID: 2800000, guid: 1150cc17d86460641aeba77c54d4d167, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Foto libro bodaa
+    second: {fileID: 2800000, guid: 5dc9c8c2701912d43a84b56abeb2461f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Green & White Modern Mood Board Photobook
+    second: {fileID: 2800000, guid: 8287b1fcd2ef735438925b750edef9f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ILFORD GALON RAPID FIXER (1)
+    second: {fileID: 2800000, guid: 8ee47e3990bc8a34182aa9b9b22b0e6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ILFORD ILFOSTOP (1)
+    second: {fileID: 2800000, guid: c8c702b5be83c90478bad21856920379, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ILFORD MULTIGRADE (1)
+    second: {fileID: 2800000, guid: 49d4c63ec02f3b84980d36b252dfa806, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ILFORD RAPID FIXER (1)
+    second: {fileID: 2800000, guid: d2bef13ddac7384478b4378f217fec9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leather027_1K-JPG_Color (1)
+    second: {fileID: 2800000, guid: 3cd62297eaffc9f4a9c5cb66f18b235c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMap
+    second: {fileID: 2800000, guid: 65ea50425a99ca140a798e7320cbbd63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nuestra boda (1)
+    second: {fileID: 2800000, guid: bf1c77b3edff89f4cb524fe4190a8610, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SpecularMap
+    second: {fileID: 2800000, guid: e7865555957dfd946a3b4e5267403d72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood028_2K-JPG_Color (1)
+    second: {fileID: 2800000, guid: 5a51201f213e3e7429de9c079979cf20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood092_2K-JPG_Color (1)
+    second: {fileID: 2800000, guid: 46d28056f579dc2498de67f97c418217, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood092_2K-JPG_Color (1) - copia
+    second: {fileID: 2800000, guid: 2f1a1143857fc0f4d8af3c63753aa952, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fotos 1
+    second: {fileID: 2800000, guid: d50058589acae314e86cf5884b91f364, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fotos 2
+    second: {fileID: 2800000, guid: 4a297cab1169bf34a9444e85e26e7036, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fotos 3
+    second: {fileID: 2800000, guid: 43333d06a4b0bb14ca48b35df6ddb138, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fotos 4
+    second: {fileID: 2800000, guid: 62898d7a4cc9d4048bda19561f41a721, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fotos 5
+    second: {fileID: 2800000, guid: 8e79481b316f52b42b561e094cfbede4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fotos 6
+    second: {fileID: 2800000, guid: 447b445d1831d6b4aa80cc020ee587c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fotos 7
+    second: {fileID: 2800000, guid: 161bf660d20db1b4e8c6f45f9c58dec2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fotos 9
+    second: {fileID: 2800000, guid: 13aa01c5337afbb4a8ca7a03b17f4a88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fotoss
+    second: {fileID: 2800000, guid: 6a54a2603f36d7d4ebe9ed19335098fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fotoss (1)
+    second: {fileID: 2800000, guid: 99e762c575b0d56448fcff5877045de9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: timer
+    second: {fileID: 2800000, guid: dc566eeff59bfb9459a0d6e2d4252926, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
