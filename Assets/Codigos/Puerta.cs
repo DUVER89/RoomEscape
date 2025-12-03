@@ -12,6 +12,7 @@ public class Puerta : MonoBehaviour
         {
             puertaAnimacion.Play("Abrir");
             fuenteAudio.PlayOneShot(sonidoPuerta);
+            Debug.Log("Reproduciendo sonido");
         }
     }
 

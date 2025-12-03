@@ -233,7 +233,7 @@
       }
     },
     "com.unity.xr.androidxr-openxr": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -244,7 +244,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.arfoundation": {
-      "version": "6.2.0",
+      "version": "6.2.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -271,7 +271,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.hands": {
-      "version": "1.7.0",
+      "version": "1.7.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
