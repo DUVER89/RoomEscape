@@ -1,13 +1,16 @@
-using TMPro;
+﻿using TMPro;
 using UnityEngine;
 
 public class TecladoNumerico : MonoBehaviour
 {
-    [Header("C�digo Correcto (4 d�gitos)")]
+    [Header("Código Correcto (4 dígitos)")]
     public string codigoCorrecto = "1234";
 
-    [Header("Referencia del Texto donde se escribe")]
+    [Header("Texto donde se escribe el código")]
     public TextMeshProUGUI textoCodigo;
+
+    [Header("Texto del mensaje de estado (Correcto / Incorrecto)")]
+    public TextMeshProUGUI mensajeEstado;
 
     private string codigoIngresado = "";
 
@@ -32,22 +35,26 @@ public class TecladoNumerico : MonoBehaviour
     {
         codigoIngresado = "";
         textoCodigo.text = "";
+        mensajeEstado.text = "";
     }
 
     void VerificarCodigo()
     {
         if (codigoIngresado == codigoCorrecto)
         {
+            mensajeEstado.text = "<color=green>✔ Código Correcto</color>";
+
             if (puerta != null)
-            {
                 puerta.SetActive(true);
-            }
         }
         else
         {
-            Debug.Log("C�digo Incorrecto � No se abre");
+            mensajeEstado.text = "<color=red>✘ Código Incorrecto</color>";
+            Debug.Log("Código Incorrecto — No se abre");
         }
 
-        Invoke(nameof(BotonBorrar), 0.5f);
+        // Limpiar pantalla después de 1 segundo
+        Invoke(nameof(BotonBorrar), 1f);
     }
 }
+
